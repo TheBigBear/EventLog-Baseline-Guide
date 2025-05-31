@@ -1,6 +1,6 @@
 # EventLog-Baseline-Guide
 ## Hosting URL
-https://yamato-security-eventlog-baseline-guide-streamlit-app-gwlyjo.streamlit.app/
+https://eventlog-baseline-guide-thebigbear.streamlit.app
 
 ## How to use this repository
 ```
